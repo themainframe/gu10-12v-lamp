@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name gu10-12v-lamp)(type KiCad)(uri /Users/damo/Projects/gu10-12v-lamp)(options "")(descr ""))
+  (lib (name 2835-led.kicad_mod)(type KiCad)(uri ${KIPRJMOD}/custom/2835-led.kicad_mod.pretty)(options "")(descr ""))
 )
