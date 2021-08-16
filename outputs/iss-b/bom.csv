@@ -1,0 +1,20 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Vendor 10of GBP,Vendor,Vendor SKU
+1,"Diode bridge, +ve/-ve/AC/AC",D_Bridge_+-AA,D1,Diode Bridge,Diode_Bridge_Vishay_DFS,1,~,0.41,Digi-Key,DF01SA-E3/77GICT-ND
+2,Light emitting diode,LED,D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12 D13,LED,LED_PLCC_2835,12,~,0.01500,Digi-Key,2138-JB2835AWT-W-U30GA0000-N0000001CT-ND
+3,Resistor,R,R1 R2 R3 R4,39R,R_2512_6332Metric,4,~,0.181,Digi-Key,RMCF2512JT39R0CT-ND
+
+
+
+
+
+Component Groups:,3
+Component Count:,17
+Fitted Components:,17
+Number of PCBs:,1
+Total components:,17
+Schematic Version:,ISS B
+Schematic Date:,
+PCB Variant:,udefault
+BoM Date:,"Monday, 16 August 2021 at 18:13:15"
+Schematic Source:,gu10-12v-lamp.sch
+KiCad Version:,Eeschema (5.1.9-0-10_14)
